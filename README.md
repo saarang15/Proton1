@@ -3,7 +3,7 @@
 #####
 
 - JDK 26
-- Maven 3.9
+- Maven 3.9 or 3.10
 - MySQL 8
 
 # Technologies
